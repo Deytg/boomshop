@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: yellow;
+    border: 1px solid blue;
+    border-radius: 3px;
+    padding: 3px;
+    margin: 15px;
+}
+.n4 {
+    font-size:30px;
+    color: chartreuse;
+    text-align: center;
+}
+footer {
+    background-color: coral;
+}
+footer p {
+    background-color: yellowgreen;
+    font-size: 20px;
+    padding: 3px;
+}
+nav a {
+    background-color:white;
+    color: peru;
+    border: 5px solid peru;
+    padding: 3px;
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 10px;
+}
+nav {
+    text-align: center;
+}
+.t6 {
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+p {
+    font-size: 20px;
+}
+h2 {
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+}
+a {
+   border: 3px solid green;
+   border-radius: 10px;
+   padding: 3px;
+   text-decoration: none;
+}
